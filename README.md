@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siavashiii
-- 👀 I’m interested in Python,Php,Java
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python,Php,JS
+- 🌱 I’m currently learning master Python & Javascript
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me Python
 
