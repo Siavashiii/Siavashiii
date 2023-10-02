@@ -25,6 +25,7 @@ Web Stack
 | **Framework / Library**  | ![React-icon](https://github.com/Siavashiii/Siavashiii/assets/96262499/e86e7dba-2080-4fbd-88c5-63b66e883313)  ![LaravelLogo](https://github.com/Siavashiii/Siavashiii/assets/96262499/a710959b-1682-4371-9ee5-c51fb81a7aee) ![js-logo](https://github.com/Siavashiii/Siavashiii/assets/96262499/46e897d7-465a-473b-ac19-cf2ef1307fc3) ![174854](https://github.com/Siavashiii/Siavashiii/assets/96262499/7382b8b9-7ef2-4f35-b66d-0dda34fbfbdd)  ![jquery-logo](https://github.com/Siavashiii/Siavashiii/assets/96262499/71e322cf-8948-46be-b886-379b240cac00)|
 | **OS**  |![mac](https://github.com/Siavashiii/Siavashiii/assets/96262499/58eb18d2-5edc-4a0f-9fb5-d7f77c34d935)             |
 
+![Tech Stack](https://github.com/Siavashiii/Siavashiii/assets/96262499/d8bc9cbb-1af6-4b6a-881c-363d6fc1d57a)
 
 ## Tech Stack
 
