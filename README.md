@@ -52,7 +52,7 @@
 
 | Technology    | Logo                                           |
 | ------------- | ---------------------------------------------- |
-| **Backend**   | ![Laravel Logo](https://raw.githubusercontent.com/Siavashiii/Siavashiii/blob/main/174854.png)       |
+| **Backend**   | ![Laravel Logo](https://raw.githubusercontent.com/Siavash_Gorji/Siavashiii/blob/main/174854.png)       |
 | **Frontend**  | ![React Logo](link_to_react_logo)               |
 
 
