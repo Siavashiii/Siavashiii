@@ -1,8 +1,6 @@
 
 <div class="Box-body p-4">
 
-    </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4fc005b100c81be8ef4bc584fa921b627e0493fe4895888a3ca54ed15c83e5f2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d4a41484d41444545266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/4fc005b100c81be8ef4bc584fa921b627e0493fe4895888a3ca54ed15c83e5f2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d4a41484d41444545266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="MJAHMADEE" data-canonical-src="https://komarev.com/ghpvc/?username=MJAHMADEE&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 <h3 id="user-content-hi-there-" dir="auto"><a class="heading-link" href="#hi-there-">Hi there 👋<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
 
 <h1 id="user-content--about-me" dir="auto"><a class="heading-link" href="#-about-me">💫 About Me:<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h1>
@@ -54,7 +52,7 @@
 <table>
 <thead>
 <tr>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/708295281cc0a59a573406879666994147c6d573eefc28fdad58440e80d1f0cf/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d6a61686d61646565267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/708295281cc0a59a573406879666994147c6d573eefc28fdad58440e80d1f0cf/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d6a61686d61646565267468656d653d7261646963616c" alt="MJAHMADEE's github streak stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=mjahmadee&amp;theme=radical" style="max-width: 100%;"></a></th>
+
 <th></th>
 </tr>
 </thead>
