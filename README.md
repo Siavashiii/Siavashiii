@@ -10,7 +10,7 @@
 
 
 <p dir="auto"><br></p>
-| **Language / IDE**   | ![web-png-jpg-transparent-stock-website-icon-blue-11563644926lhavspjenq](https://github.com/Siavashiii/Siavashiii/assets/96262499/7b3ce3ca-153b-4911-81a3-a899f5c56dfc)
+# Web Stack![web-png-jpg-transparent-stock-website-icon-blue-11563644926lhavspjenq](https://github.com/Siavashiii/Siavashiii/assets/96262499/7b3ce3ca-153b-4911-81a3-a899f5c56dfc)
 
 
 
