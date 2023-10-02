@@ -10,7 +10,7 @@
 
 
 <p dir="auto"><br></p>
-![Project Tech Stack](https://github.com/Siavashiii/Siavashiii/assets/96262499/9f8e3eef-75e2-4c4a-8510-697c5f71e89b)
+![Project Tech Stack]![web-png-jpg-transparent-stock-website-icon-blue-11563644926lhavspjenq](https://github.com/Siavashiii/Siavashiii/assets/96262499/7b3ce3ca-153b-4911-81a3-a899f5c56dfc)
 
 
 
