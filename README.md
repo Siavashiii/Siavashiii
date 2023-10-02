@@ -50,6 +50,11 @@
 </tbody>
 </table>
 
+| Technology    | Logo                                           |
+| ------------- | ---------------------------------------------- |
+| **Backend**   | ![Laravel Logo](link_to_laravel_logo)           |
+| **Frontend**  | ![React Logo](link_to_react_logo)               |
+
 
 
 </tbody>
