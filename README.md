@@ -17,7 +17,7 @@
 | Property   | Data                                       |
 | ------------- | ---------------------------------------------- |
 | **Language / IDE**   | ![PhpStorm_Icon](https://github.com/Siavashiii/Siavashiii/assets/96262499/19fffdb7-253d-497f-b5b5-0509c9cf25c7)    |
-| **Framework / Library**  | ![React-icon](https://github.com/Siavashiii/Siavashiii/assets/96262499/e86e7dba-2080-4fbd-88c5-63b66e883313)  ![LaravelLogo](https://github.com/Siavashiii/Siavashiii/assets/96262499/8f0b2cf8-92a7-4ba5-b5bf-aa1c87a35c4e) ![js-logo](https://github.com/Siavashiii/Siavashiii/assets/96262499/46e897d7-465a-473b-ac19-cf2ef1307fc3) ![html5_logo](https://github.com/Siavashiii/Siavashiii/assets/96262499/e8b5ed52-8c5a-4c63-861c-62cfac53e1a6)  ![CSS3_logo_and_wordmark](https://github.com/Siavashiii/Siavashiii/assets/96262499/a043606d-ecda-40bc-847b-1f6f6d96c55c)|
+| **Framework / Library**  | ![React-icon](https://github.com/Siavashiii/Siavashiii/assets/96262499/e86e7dba-2080-4fbd-88c5-63b66e883313)  ![LaravelLogo](https://github.com/Siavashiii/Siavashiii/assets/96262499/a710959b-1682-4371-9ee5-c51fb81a7aee) ![js-logo](https://github.com/Siavashiii/Siavashiii/assets/96262499/46e897d7-465a-473b-ac19-cf2ef1307fc3) ![174854](https://github.com/Siavashiii/Siavashiii/assets/96262499/7382b8b9-7ef2-4f35-b66d-0dda34fbfbdd)|
 | **OS**  |![mac](https://github.com/Siavashiii/Siavashiii/assets/96262499/58eb18d2-5edc-4a0f-9fb5-d7f77c34d935)             |
 
 
