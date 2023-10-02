@@ -1,9 +1,5 @@
 
 <div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
-      <div class="text-mono text-small mb-3">
-        <a href="/MJAHMADEE/MJAHMADEE" class="no-underline Link--primary">MJAHMADEE</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
-      </div>
 
     </div>
     <article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4fc005b100c81be8ef4bc584fa921b627e0493fe4895888a3ca54ed15c83e5f2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d4a41484d41444545266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/4fc005b100c81be8ef4bc584fa921b627e0493fe4895888a3ca54ed15c83e5f2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d4a41484d41444545266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="MJAHMADEE" data-canonical-src="https://komarev.com/ghpvc/?username=MJAHMADEE&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
@@ -63,10 +59,7 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e501cfa20da5629aa6866923db9986fb0704718d54bf064ef598fce4489e01c5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d4a41484d414445452673686f775f69636f6e733d74727565267468656d653d7261646963616c26696e636c7564655f616c6c5f636f6d6d6974733d74727565"><img src="https://camo.githubusercontent.com/e501cfa20da5629aa6866923db9986fb0704718d54bf064ef598fce4489e01c5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d4a41484d414445452673686f775f69636f6e733d74727565267468656d653d7261646963616c26696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="MJAHMADEE's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MJAHMADEE&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/737744bbfc3a78cf13967962ad8fb8b94feaa30111a0cf710736cf1406081c6f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d4a41484d41444545267468656d653d7261646963616c266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/737744bbfc3a78cf13967962ad8fb8b94feaa30111a0cf710736cf1406081c6f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d4a41484d41444545267468656d653d7261646963616c266c61796f75743d636f6d70616374" alt="Quiec's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJAHMADEE&amp;theme=radical&amp;layout=compact" style="max-width: 100%;"></a></td>
-</tr>
+
 </tbody>
 </table>
 </article>
