@@ -11,7 +11,7 @@
 
 <p dir="auto"><br></p>
 
-![Tech Stack](https://github.com/Siavashiii/Siavashiii/assets/96262499/7b3ce3ca-153b-4911-81a3-a899f5c56dfc)
+![Tech Stack](https://github.com/Siavashiii/Siavashiii/assets/96262499/a41e7b9f-7488-4a64-90fe-418cbc39fc7e)
 
 
 
